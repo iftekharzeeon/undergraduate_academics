@@ -7,9 +7,35 @@
   - [**L2**/*T1*](#---l2t1---)
   - [**L1**/*T2*](#---l1t2---)
   - [**L1**/*T1*](#---l1t1---)
+  
+<h1 align="center"> <b> <code> L3/T2 </code> </b> </h1>
+<hr/>
 
-- **Extra Stuffs** 
-  - *Code*
+## **`CSE 314` : Operating System Sessional**
+
+- [Shell Script](https://github.com/iftekharzeeon/CSE-314-Operating-System)
+- [System Call](https://github.com/iftekharzeeon/CSE-314-Operating-System)
+- [Scheduler](https://github.com/iftekharzeeon/CSE-314-Operating-System)
+- [Threading](https://github.com/iftekharzeeon/CSE-314-Operating-System)
+- [Memory Management](https://github.com/iftekharzeeon/CSE-314-Operating-System)
+
+## **`CSE 322` : Cmputer Networking Sessional**
+- **`Socket Programming`**
+  - [Offline](https://github.com/iftekharzeeon/CSE-316-Microprocessor-Assembly)
+
+- **`Packet Tracer`**
+  - [Online](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
+  
+- **`NS2`**
+  - [Offline](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
+  - [Project](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
+  
+## **`CSE 318` : Artificial Intelligence Sessional**
+
+- [A* Search](https://github.com/iftekharzeeon/CSE-318-Artifical-Intelligence)
+- [Local Search](https://github.com/iftekharzeeon/CSE-318-Artifical-Intelligence)
+- [CSP](https://github.com/iftekharzeeon/CSE-318-Artifical-Intelligence)
+- [Minesweeper Game](https://github.com/iftekharzeeon/CSE-318-Artifical-Intelligence)
 
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
