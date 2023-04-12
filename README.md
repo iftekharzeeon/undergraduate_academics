@@ -27,8 +27,8 @@
   - [Online](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
   
 - **`NS2`**
-  - [Offline](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
-  - [Project](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
+  - [Offline](https://github.com/iftekharzeeon/CSE-322-Computer-Networking/tree/main/NS2%20Offline)
+  - [Project](https://github.com/iftekharzeeon/CSE-322-Computer-Networking/tree/main/NS2%20Project)
   
 ## **`CSE 318` : Artificial Intelligence Sessional**
 
