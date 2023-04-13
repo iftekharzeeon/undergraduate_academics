@@ -21,10 +21,10 @@
 
 ## **`CSE 322` : Cmputer Networking Sessional**
 - **`Socket Programming`**
-  - [Offline](https://github.com/iftekharzeeon/CSE-316-Microprocessor-Assembly)
+  - [Offline](https://github.com/iftekharzeeon/CSE-322-Computer-Networking/tree/main/Socket%20Programming)
 
 - **`Packet Tracer`**
-  - [Online](https://github.com/iftekharzeeon/3D-Tic-Tac-Toe)
+  - [Online](https://github.com/iftekharzeeon/CSE-322-Computer-Networking/tree/main/Packet%20Tracer%20Online)
   
 - **`NS2`**
   - [Offline](https://github.com/iftekharzeeon/CSE-322-Computer-Networking/tree/main/NS2%20Offline)
