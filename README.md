@@ -37,6 +37,18 @@
 - [CSP](https://github.com/iftekharzeeon/CSE-318-Artifical-Intelligence)
 - [Minesweeper Game](https://github.com/iftekharzeeon/CSE-318-Artifical-Intelligence)
 
+## **`CSE 326` :Information System Design Sessional**
+
+- [BPMN Diagram](https://github.com/iftekharzeeon/CSE-326-Information-System-Design)
+- [ERD](https://github.com/iftekharzeeon/CSE-326-Information-System-Design)
+- [Class Diagram](https://github.com/iftekharzeeon/CSE-326-Information-System-Design)
+- [Mock UI](https://github.com/iftekharzeeon/CSE-326-Information-System-Design)
+- [Sequential Diagram](https://github.com/iftekharzeeon/CSE-326-Information-System-Design)
+- [Collaboration Diagram](https://github.com/iftekharzeeon/CSE-326-Information-System-Design)
+- **`Term Project`**
+  - [Frontend](https://github.com/gang-of-6/mobile-doc-frontend)
+  - [Backend](https://github.com/gang-of-6/mobile-doc-backend)
+
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
 
